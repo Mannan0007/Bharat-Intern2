@@ -1,0 +1,68 @@
+body {
+    background-image: url(15442020_5590457.jpg);
+    background-size: cover;
+  }
+  
+.header{
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+
+
+}
+.main{
+    display: flex;
+    font-size: 40px;
+    /* font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ; */
+    color: #f0f0f0;
+
+    justify-content: center;
+}
+.centre_content{
+    display: flex;
+    position: relative;
+    left: 140px;
+    text-align: center;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    color: #f0f0f0;
+
+}
+.pht{
+    display: flex;
+    height: 1030px;
+    position: relative;
+    left: 1550px;
+    top: 80px;
+}
+.points{
+    display: block;
+    position: relative;
+    font-size: 40px;
+    left: 100px;
+    top: -980px;
+    color: #f0f0f0;
+}
+
+.logos{
+    display: flex;
+    justify-content: center;
+    height: 330px;
+    gap: 127px;
+    position: relative;
+    top: -510px;
+}
+.projects{
+    display: block;
+    position: relative;
+    font-size: 40px;
+    left: 100px;
+    color: #f0f0f0;
+}
+
+.contact{
+    display: block;
+    position: relative;
+    font-size: 40px;
+    left: 100px;
+    color: #f0f0f0;
+}
